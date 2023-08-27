@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "nest": "^0.1.6"
+  },
+  "scripts": {
+    "start": "mdb",
+    "build": "node index.js"
+  },
+  "type": "module",
+  "author": "Varya Deviaterikova <hallovarvara@gmail.com>",
+  "license": "ISC"
+}
